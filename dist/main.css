@@ -325,13 +325,13 @@ a {
 /* colors */
 /* colors */
 .header-description-container {
-  background-image: url("../../../img/allef-vinicius-320.png");
+  background-image: url(".././img/allef-vinicius-320.png");
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: 68px; }
   @media screen and (min-width: 768px) {
     .header-description-container {
-      background-image: url("../../../img/allef-vinicius-768.png");
+      background-image: url(".././img/allef-vinicius-768.png");
       margin-top: 97px; } }
   .header-description-container .header-description .description-content {
     padding: 213px 0 52px 0; }
@@ -420,7 +420,7 @@ a {
   @media screen and (min-width: 1024px) {
     .services-section .servises-content .bg-container {
       display: block;
-      background-image: url("../../../img/mignon-hemsley.png");
+      background-image: url(".././img/mignon-hemsley.png");
       background-size: cover;
       background-repeat: no-repeat;
       height: 718px;
@@ -538,7 +538,11 @@ a {
     @media screen and (min-width: 1024px) {
       .team-content .our-team {
         margin-bottom: 40px; } }
-
+  .team-content .team-description {
+    /* colors */
+    /* colors */
+    /* colors */
+    /* colors */ }
     .team-content .team-description .slider {
       max-width: 200px;
       position: relative;
@@ -643,7 +647,7 @@ a {
     .form-section {
       padding: 64px 40px;
       margin-top: 0px;
-      background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../../../img/arthur-humeau.png");
+      background-image: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(".././img/arthur-humeau.png");
       background-size: cover;
       background-repeat: no-repeat;
       width: 100%; } }
@@ -931,7 +935,7 @@ input[type="radio"]:checked + label:after {
   z-index: 1; }
 
 .checkbox-label:after {
-  background-image: url("../../../img/checkbox.png");
+  background-image: url(".././img/checkbox.png");
   background-repeat: no-repeat;
   background-size: 20px 20px;
   content: '';
